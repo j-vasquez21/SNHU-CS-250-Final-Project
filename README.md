@@ -2,7 +2,7 @@
 
 ## How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 
-Correctly interpretting user needs is essential for a software developer to understand the problem that they need to solve before rushing into code. Misinterpretting the user needs can lead to creating software that does not provide the correct value to addess the user needs. User stories are an approach to outlining the value that a feature of a software should provide the user. Through understanding the acceptance criteria of a user story, the developer can determine what the definition of done is for a given feature. 
+Correctly interpretting user needs is essential for a software developer to understand the problem that they need to solve before rushing into code. Misinterpretting the user needs can lead to creating software that does not provide the correct value to address the user needs. User stories are an approach to outlining the value that a feature of a software should provide the user. Through understanding the acceptance criteria of a user story, the developer can determine what the definition of done is for a given feature. 
 
 ## How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
 
